@@ -6,7 +6,7 @@
 */
 
 var fh = {
-	api_url : 'http://10.66.228.153/qyuki/api/web/v1/',
+	api_url : 'http://10.66.228.153/tars/api/web/v1/',
 	version :  1.1,
 	debug : true,
 	ERR : {
@@ -22,7 +22,7 @@ var fh = {
 	
 	alert : function(m){
 
-		navigator.notification.alert(m, null, 'Qyuki Jammin - Message');
+		navigator.notification.alert(m, null, 'Message');
 	},
 	
 
