@@ -236,7 +236,7 @@ var fh = {
 	{
 		navigator.notification.confirm('Are sure to exit the application ?', (function(idx){
 			if(idx === 1) navigator.app.exitApp();
-		}), 'Qyuki Jammin - Confirm', ['Exit', 'Cancel']);
+		}), 'Confirm', ['Exit', 'Cancel']);
 
 	},
 
