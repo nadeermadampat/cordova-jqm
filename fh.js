@@ -5,7 +5,7 @@
 	
 */
 
-var fh = {
+var N = {
 	api_url : 'http://10.66.228.153/project/api/',
 	//api_url : 'http://ncloudhost.com/api/',
 	version :  1.3,
